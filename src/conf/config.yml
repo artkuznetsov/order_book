@@ -1,0 +1,14 @@
+quotes_generator:
+  symbols:
+    symbol1:
+      mu: 100
+      sigma: 20
+    symbol2:
+      mu: 100
+      sigma: 30
+    symbol3:
+      mu: 908
+      sigma: 13
+    symbol4:
+      mu: 78
+      sigma: 10
